@@ -34,4 +34,4 @@ https://github.com/webpack/webpack-dev-server
 
 ### linter-prettier
 
-Главное - .eslintrc и
+Главное - .eslintrc и .prettierrc
